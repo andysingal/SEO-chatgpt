@@ -4,4 +4,5 @@ Elevate your digital presence with cutting-edge SEO insights powered by ChatGPT.
 <img width="1291" alt="Screenshot 2024-01-06 at 2 25 52 PM" src="https://github.com/andysingal/SEO-chatgpt/assets/20493493/2dbbb6da-95cc-4499-8067-d33883c3083a">
 
 Resources:
-Ask your pdf: https://askyourpdf.com/ 
+
+- Ask your pdf: https://askyourpdf.com/ 
