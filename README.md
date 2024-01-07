@@ -5,4 +5,5 @@ Elevate your digital presence with cutting-edge SEO insights powered by ChatGPT.
 
 Resources:
 
-- Ask your pdf: https://askyourpdf.com/ 
+- Ask your pdf: https://askyourpdf.com/
+- Chatgpt Plugin: WHIMSICAL MIND MAP, - Storybooks
